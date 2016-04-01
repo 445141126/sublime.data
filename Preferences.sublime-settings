@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Colorcoder/Monokai Bright (Colorcoded).tmTheme",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"original_color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": "auto",
+	"wrap_width": 120
+}

@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Auto Hide Sidebar",
+		"Colorcoder",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Gitignore",
+		"HTML-CSS-JS Prettify",
+		"jQuery",
+		"JSHint",
+		"Package Control",
+		"Stylus",
+		"SublimeCodeIntel",
+		"Terminal",
+		"Vintageous"
+	]
+}
